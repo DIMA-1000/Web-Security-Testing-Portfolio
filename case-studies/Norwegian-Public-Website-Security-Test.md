@@ -1,4 +1,3 @@
-Norwegian-Public-Website-Security-Test-EN.md
 
 ## Executive Summary
 
