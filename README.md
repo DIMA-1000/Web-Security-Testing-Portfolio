@@ -24,12 +24,15 @@ Practical security testing of real public Norwegian web applications.
 
 Identified reproducible issues involving **URL/parameter encoding, API input processing, HTTP 500 errors, HTTP Parameter Pollution (HPP), and security configuration**.
 
-➡️ **Detailed case study:**  
-`case-studies/Norwegian-Public-Website-Security-Test.md`
+## Security Case Study
+
+🇬🇧 [English version](case-studies/Norwegian-Public-Website-Security-Test.md)
+
+🇳🇴 [Norsk versjon](case-studies/Sikkerhetstesting-av-norsk-offentlig-nettsted.md)
 
 ## Tools
 
-Jira • Swagger • Charles Proxy • JMeter • TestRail • SoapUI
+Jira • Swagger / OpenAPI • Charles Proxy • JMeter • TestRail • SoapUI
 
 ## Current Direction
 
